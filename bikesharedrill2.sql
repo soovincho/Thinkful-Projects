@@ -1,4 +1,0 @@
-SELECT
-	duration
-FROM
-	trips

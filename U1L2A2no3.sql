@@ -1,8 +1,8 @@
 SELECT
-	Date
+	Date,
 	Events
 FROM
 	weather
 WHERE
 	ZIP = 94301 AND
-	Events like 'rain'
+	Events = 'Rain'
